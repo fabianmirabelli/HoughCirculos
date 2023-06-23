@@ -123,9 +123,9 @@ public class HoughCirculos {
         panel.add(param1Field);
         panel.add(new JLabel("param2:"));
         panel.add(param2Field);
-        panel.add(new JLabel("minRadius:"));
+        panel.add(new JLabel("minRadio:"));
         panel.add(minRadioField);
-        panel.add(new JLabel("maxRadius:"));
+        panel.add(new JLabel("maxRadio:"));
         panel.add(maxRadioField);
         panel.add(executeButton);
 
