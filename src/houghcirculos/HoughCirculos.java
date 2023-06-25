@@ -66,7 +66,7 @@ public class HoughCirculos {
         JTextField minDistField = new JTextField("50", 5);
         JTextField param1Field = new JTextField("40", 5);
         JTextField param2Field = new JTextField("20", 5);
-        JTextField minRadioField = new JTextField("20", 5);
+        JTextField minRadioField = new JTextField("25", 5);
         JTextField maxRadioField = new JTextField("40", 5);
 
         // Crear un botón para ejecutar el código con los nuevos parámetros
